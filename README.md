@@ -1,6 +1,6 @@
 # Begginers-Guide-To-Causal-Inference
 ## Bayesian Statistics
-- [The Book of Why: The New Science of Cause and Effect]([https://www.amazon.com/Bayesian-Statistics-Fun-Will-Kurt/dp/1593279566/ref=sr_1_1?crid=35PDB8VSHAJLB&keywords=Bayes+the+fun+way&qid=1650668302&s=books&sprefix=bayes+the+fun+way%2Cstripbooks%2C141&sr=1-1](https://www.amazon.com/Book-Why-Science-Cause-Effect/dp/1541698967/ref=sr_1_1?crid=1IRW2RYB2DPMA&keywords=the+book+of+why&qid=1654139093&sprefix=the+book+of+why%2Caps%2C143&sr=8-1))
+- [The Book of Why: The New Science of Cause and Effect](https://www.amazon.com/Book-Why-Science-Cause-Effect/dp/1541698967/ref=sr_1_1?crid=1IRW2RYB2DPMA&keywords=the+book+of+why&qid=1654139093&sprefix=the+book+of+why%2Caps%2C143&sr=8-1))
 - [The Effect](https://www.amazon.com/Effect-Nick-Huntington-Klein/dp/1032125780/ref=sr_1_1?crid=2SKJ71XU43DAC&keywords=The+effect&qid=1654139162&sprefix=the+effect%2Caps%2C128&sr=8-1)
 
 ## Further Reading
