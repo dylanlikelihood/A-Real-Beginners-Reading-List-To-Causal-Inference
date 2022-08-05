@@ -1,5 +1,5 @@
 # A-Real-Beginners-Reading-List-To-Causal-Inference
-- [The Book of Why: The New Science of Cause and Effect](https://www.amazon.com/Book-Why-Science-Cause-Effect/dp/1541698967/ref=sr_1_1?crid=1IRW2RYB2DPMA&keywords=the+book+of+why&qid=1654139093&sprefix=the+book+of+why%2Caps%2C143&sr=8-1))
+- [The Book of Why: The New Science of Cause and Effect](https://www.amazon.com/Book-Why-Science-Cause-Effect/dp/1541698967/ref=sr_1_1?crid=1IRW2RYB2DPMA&keywords=the+book+of+why&qid=1654139093&sprefix=the+book+of+why%2Caps%2C143&sr=8-1)
 - [The Effect](https://www.amazon.com/Effect-Nick-Huntington-Klein/dp/1032125780/ref=sr_1_1?crid=2SKJ71XU43DAC&keywords=The+effect&qid=1654139162&sprefix=the+effect%2Caps%2C128&sr=8-1)
 - [Observation and Experiment: An Introduction to Causal Inference](https://www.amazon.com/gp/product/B074DVT9HR/ref=dbs_a_def_rwt_bibl_vppi_i1)
 ## Further Reading
